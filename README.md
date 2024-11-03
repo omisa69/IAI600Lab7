@@ -1,2 +1,4 @@
 # IAI600Lab7
- Hyperparameter Tuning of a Deep MLP on the MNIST Dataset Using Keras Tuner
+This repository contains the materials and code for Lab 7 of the "Introduction to Artificial Intelligence and Machine Learning" course, part of the AI and Automation program at University West in Trollhättan, Sweden. In this lab, we focus on developing a deep Multi-Layer Perceptron (MLP) model to classify handwritten digits from the MNIST dataset.
+
+We utilize Keras Tuner to perform hyperparameter tuning, aiming to optimize the model's performance and achieve a test accuracy of at least 98%. The repository includes scripts for setting up the MLP model, conducting the hyperparameter search using Random Search, and analyzing the tuning results. Additionally, you will find a detailed report summarizing the findings, insights, and the contribution of selected hyperparameters towards the model's accuracy and computational efficiency.
